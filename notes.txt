@@ -1,0 +1,3 @@
+"I want to learn Git." 
+"I want to learn VS Code." 
+"I want to learn GitHub." 
